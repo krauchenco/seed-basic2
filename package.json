@@ -1,0 +1,23 @@
+{
+  "name": "seed-basic2",
+  "version": "0.0.0",
+  "description": "seed-basic2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krauchenco/seed-basic2.git"
+  },
+  "author": "João Krauchenco Neto",
+  "dependencies": {},
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krauchenco/seed-basic2/issues"
+  },
+  "devDependencies": {
+    "socket.io-client": "~0.9.16"
+  }
+}
