@@ -12,7 +12,13 @@
     "url": "https://github.com/krauchenco/seed-basic2.git"
   },
   "author": "João Krauchenco Neto",
-  "dependencies": {},
+  "dependencies": {
+    "morgan": "~1.0.1",
+    "method-override": "~1.0.0",
+    "body-parser": "~1.0.2",
+    "socket.io": "~0.9.16",
+    "socket.io-client": "~0.9.16"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/krauchenco/seed-basic2/issues"
